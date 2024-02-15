@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CafeMenu/static/css/main.3b3be1bf.css",
+    "main.js": "/CafeMenu/static/js/main.9a950fba.js",
+    "static/js/787.c791577c.chunk.js": "/CafeMenu/static/js/787.c791577c.chunk.js",
+    "index.html": "/CafeMenu/index.html",
+    "main.3b3be1bf.css.map": "/CafeMenu/static/css/main.3b3be1bf.css.map",
+    "main.9a950fba.js.map": "/CafeMenu/static/js/main.9a950fba.js.map",
+    "787.c791577c.chunk.js.map": "/CafeMenu/static/js/787.c791577c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b3be1bf.css",
+    "static/js/main.9a950fba.js"
+  ]
+}
